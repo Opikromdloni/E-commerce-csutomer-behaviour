@@ -1,0 +1,351 @@
+Customer ID;Gender;Age;City;Membership Type;Total Spend;Items Purchased; Average Rating ;Discount Applied;Days Since Last Purchase;Satisfaction Level
+103;Female;43;Chicago;Bronze;511;9;3,4;TRUE;42;Unsatisfied
+109;Female;41;Chicago;Bronze;495;10;3,6;TRUE;40;Unsatisfied
+115;Female;42;Chicago;Bronze;530;9;3,5;TRUE;38;Unsatisfied
+121;Female;43;Chicago;Bronze;506;10;3,3;TRUE;41;Unsatisfied
+127;Female;41;Chicago;Bronze;485;9;3,6;TRUE;39;Unsatisfied
+133;Female;42;Chicago;Bronze;520;9;3,5;TRUE;37;Unsatisfied
+139;Female;43;Chicago;Bronze;501;10;3,3;TRUE;40;Unsatisfied
+145;Female;41;Chicago;Bronze;480;9;3,6;TRUE;38;Unsatisfied
+151;Female;43;Chicago;Bronze;506;10;3,3;TRUE;39;Unsatisfied
+157;Female;41;Chicago;Bronze;485;9;3,6;TRUE;39;Unsatisfied
+163;Female;42;Chicago;Bronze;520;9;3,5;TRUE;37;Unsatisfied
+169;Female;43;Chicago;Bronze;501;10;3,3;TRUE;40;Unsatisfied
+175;Female;41;Chicago;Bronze;480;9;3,6;TRUE;38;Unsatisfied
+181;Female;43;Chicago;Bronze;506;10;3,3;TRUE;39;Unsatisfied
+187;Female;41;Chicago;Bronze;485;9;3,6;TRUE;39;Unsatisfied
+193;Female;42;Chicago;Bronze;520;9;3,5;TRUE;37;Unsatisfied
+199;Female;43;Chicago;Bronze;501;10;3,3;TRUE;40;Unsatisfied
+205;Female;41;Chicago;Bronze;480;9;3,6;TRUE;38;Unsatisfied
+211;Female;43;Chicago;Bronze;506;10;3,3;TRUE;39;Unsatisfied
+217;Female;41;Chicago;Bronze;485;9;3,6;TRUE;39;Unsatisfied
+223;Female;42;Chicago;Bronze;520;9;3,5;TRUE;37;Unsatisfied
+229;Female;43;Chicago;Bronze;501;10;3,3;TRUE;40;Unsatisfied
+235;Female;41;Chicago;Bronze;480;9;3,6;TRUE;38;Unsatisfied
+241;Female;43;Chicago;Bronze;506;10;3,3;TRUE;39;Unsatisfied
+247;Female;41;Chicago;Bronze;480;9;3,6;TRUE;38;Unsatisfied
+253;Female;43;Chicago;Bronze;506;10;3,3;TRUE;39;Unsatisfied
+259;Female;41;Chicago;Bronze;485;9;3,6;TRUE;39;Unsatisfied
+265;Female;42;Chicago;Bronze;520;9;3,5;TRUE;37;Unsatisfied
+271;Female;43;Chicago;Bronze;501;10;3,3;TRUE;40;Unsatisfied
+277;Female;41;Chicago;Bronze;480;9;3,6;TRUE;38;Unsatisfied
+283;Female;43;Chicago;Bronze;506;10;3,3;TRUE;39;Unsatisfied
+289;Female;41;Chicago;Bronze;485;9;3,6;TRUE;39;Unsatisfied
+295;Female;42;Chicago;Bronze;520;9;3,5;TRUE;37;Unsatisfied
+306;Female;42;Chicago;Bronze;495;10;3,5;TRUE;35;Unsatisfied
+312;Female;43;Chicago;Bronze;516;9;3,3;TRUE;38;Unsatisfied
+318;Female;41;Chicago;Bronze;480;9;3,6;TRUE;39;Unsatisfied
+324;Female;43;Chicago;Bronze;506;10;3,3;TRUE;39;Unsatisfied
+330;Female;41;Chicago;Bronze;485;9;3,6;TRUE;39;Unsatisfied
+336;Female;42;Chicago;Bronze;520;9;3,5;TRUE;37;Unsatisfied
+342;Female;43;Chicago;Bronze;526;9;3,3;TRUE;40;Unsatisfied
+348;Female;41;Chicago;Bronze;490;9;3,6;TRUE;40;Unsatisfied
+354;Female;43;Chicago;Bronze;511;10;3,3;TRUE;41;Unsatisfied
+360;Female;41;Chicago;Bronze;495;9;3,6;TRUE;41;Unsatisfied
+366;Female;43;Chicago;Bronze;506;10;3,3;TRUE;42;Unsatisfied
+372;Female;41;Chicago;Bronze;475;9;3,6;TRUE;42;Unsatisfied
+378;Female;43;Chicago;Bronze;516;10;3,3;TRUE;43;Unsatisfied
+384;Female;41;Chicago;Bronze;495;9;3,6;TRUE;43;Unsatisfied
+390;Female;43;Chicago;Bronze;506;10;3,3;TRUE;44;Unsatisfied
+396;Female;41;Chicago;Bronze;475;9;3,6;TRUE;44;Unsatisfied
+402;Female;43;Chicago;Bronze;516;10;3,3;TRUE;45;Unsatisfied
+408;Female;41;Chicago;Bronze;495;9;3,6;TRUE;45;Unsatisfied
+414;Female;43;Chicago;Bronze;506;10;3,3;TRUE;46;Unsatisfied
+420;Female;41;Chicago;Bronze;475;9;3,6;TRUE;46;Unsatisfied
+426;Female;43;Chicago;Bronze;516;10;3,3;TRUE;47;Unsatisfied
+432;Female;41;Chicago;Bronze;495;9;3,6;TRUE;47;Unsatisfied
+438;Female;43;Chicago;Bronze;506;10;3,3;TRUE;48;Unsatisfied
+444;Female;41;Chicago;Bronze;475;9;3,6;TRUE;48;Unsatisfied
+450;Female;43;Chicago;Bronze;516;10;3,3;TRUE;49;Unsatisfied
+106;Female;37;Houston;Bronze;441;8;3,1;FALSE;22;Neutral
+112;Female;36;Houston;Bronze;471;7;3,2;FALSE;20;Neutral
+118;Female;38;Houston;Bronze;451;8;3;FALSE;25;Neutral
+124;Female;37;Houston;Bronze;431;7;3,4;FALSE;23;Neutral
+130;Female;36;Houston;Bronze;461;8;3,1;FALSE;19;Neutral
+136;Female;38;Houston;Bronze;441;8;3,2;FALSE;24;Neutral
+142;Female;37;Houston;Bronze;421;7;3,1;FALSE;21;Neutral
+148;Female;36;Houston;Bronze;471;8;3;FALSE;18;Neutral
+154;Female;37;Houston;Bronze;431;7;3,4;FALSE;23;Neutral
+160;Female;36;Houston;Bronze;461;8;3,1;FALSE;19;Neutral
+166;Female;38;Houston;Bronze;441;8;3,2;FALSE;24;Neutral
+172;Female;37;Houston;Bronze;421;7;3,1;FALSE;21;NA
+178;Female;36;Houston;Bronze;471;8;3;FALSE;18;Neutral
+184;Female;37;Houston;Bronze;431;7;3,4;FALSE;23;Neutral
+190;Female;36;Houston;Bronze;461;8;3,1;FALSE;19;Neutral
+196;Female;38;Houston;Bronze;441;8;3,2;FALSE;24;Neutral
+202;Female;37;Houston;Bronze;421;7;3,1;FALSE;21;Neutral
+208;Female;36;Houston;Bronze;471;8;3;FALSE;18;Neutral
+214;Female;37;Houston;Bronze;431;7;3,4;FALSE;23;Neutral
+220;Female;36;Houston;Bronze;461;8;3,1;FALSE;19;Neutral
+226;Female;38;Houston;Bronze;441;8;3,2;FALSE;24;Neutral
+232;Female;37;Houston;Bronze;421;7;3,1;FALSE;21;Neutral
+238;Female;36;Houston;Bronze;471;8;3;FALSE;18;Neutral
+244;Female;37;Houston;Bronze;431;7;3,4;FALSE;23;NA
+250;Female;36;Houston;Bronze;471;8;3;FALSE;18;Neutral
+256;Female;37;Houston;Bronze;431;7;3,4;FALSE;23;Neutral
+262;Female;36;Houston;Bronze;461;8;3,1;FALSE;19;Neutral
+268;Female;38;Houston;Bronze;441;8;3,2;FALSE;24;Neutral
+274;Female;37;Houston;Bronze;431;7;3,4;FALSE;23;Neutral
+280;Female;36;Houston;Bronze;471;8;3;FALSE;18;Neutral
+286;Female;37;Houston;Bronze;431;7;3,4;FALSE;23;Neutral
+292;Female;36;Houston;Bronze;461;8;3,1;FALSE;19;Neutral
+298;Female;38;Houston;Bronze;441;8;3,2;FALSE;24;Neutral
+303;Female;35;Houston;Bronze;451;7;3,3;FALSE;21;Neutral
+309;Female;38;Houston;Bronze;461;8;3,2;FALSE;25;Neutral
+315;Female;37;Houston;Bronze;421;7;3,4;FALSE;24;Neutral
+321;Female;36;Houston;Bronze;471;8;3;FALSE;18;Neutral
+327;Female;37;Houston;Bronze;431;7;3,4;FALSE;23;Neutral
+333;Female;36;Houston;Bronze;461;8;3,1;FALSE;19;Neutral
+339;Female;38;Houston;Bronze;441;8;3,2;FALSE;24;Neutral
+345;Female;37;Houston;Bronze;441;7;3,2;FALSE;25;Neutral
+351;Female;36;Houston;Bronze;481;8;3,1;FALSE;20;Neutral
+357;Female;37;Houston;Bronze;411;7;3,4;FALSE;26;Neutral
+363;Female;36;Houston;Bronze;431;8;3,1;FALSE;21;Neutral
+369;Female;37;Houston;Bronze;451;7;3,4;FALSE;24;Neutral
+375;Female;36;Houston;Bronze;471;8;3;FALSE;22;Neutral
+381;Female;37;Houston;Bronze;431;7;3,4;FALSE;27;Neutral
+387;Female;36;Houston;Bronze;441;8;3,1;FALSE;23;Neutral
+393;Female;37;Houston;Bronze;451;7;3,4;FALSE;28;Neutral
+399;Female;36;Houston;Bronze;471;8;3;FALSE;22;Neutral
+405;Female;37;Houston;Bronze;431;7;3,4;FALSE;29;Neutral
+411;Female;36;Houston;Bronze;441;8;3,1;FALSE;24;Neutral
+417;Female;37;Houston;Bronze;451;7;3,4;FALSE;30;Neutral
+423;Female;36;Houston;Bronze;471;8;3;FALSE;26;Neutral
+429;Female;37;Houston;Bronze;431;7;3,4;FALSE;31;Neutral
+435;Female;36;Houston;Bronze;441;8;3,1;FALSE;28;Neutral
+441;Female;37;Houston;Bronze;451;7;3,4;FALSE;32;Neutral
+447;Female;36;Houston;Bronze;471;8;3;FALSE;27;Neutral
+102;Male;34;Los Angeles;Silver;781;11;4,1;FALSE;18;Neutral
+108;Male;35;Los Angeles;Silver;801;12;4,2;FALSE;14;Neutral
+114;Male;33;Los Angeles;Silver;821;13;4,4;FALSE;15;Satisfied
+120;Male;34;Los Angeles;Silver;790;11;4;FALSE;16;Neutral
+126;Male;35;Los Angeles;Silver;811;12;4,3;FALSE;13;Neutral
+132;Male;33;Los Angeles;Silver;831;13;4,2;FALSE;14;Satisfied
+138;Male;34;Los Angeles;Silver;800;11;4,1;FALSE;17;Neutral
+144;Male;35;Los Angeles;Silver;821;12;4,3;FALSE;12;Neutral
+150;Male;34;Los Angeles;Silver;790;11;4;FALSE;15;Neutral
+156;Male;35;Los Angeles;Silver;811;12;4,3;FALSE;13;Neutral
+162;Male;33;Los Angeles;Silver;831;13;4,2;FALSE;14;Satisfied
+168;Male;34;Los Angeles;Silver;800;11;4,1;FALSE;17;Neutral
+174;Male;35;Los Angeles;Silver;821;12;4,3;FALSE;12;Neutral
+180;Male;34;Los Angeles;Silver;790;11;4;FALSE;15;Neutral
+186;Male;35;Los Angeles;Silver;811;12;4,3;FALSE;13;Neutral
+192;Male;33;Los Angeles;Silver;831;13;4,2;FALSE;14;Satisfied
+198;Male;34;Los Angeles;Silver;800;11;4,1;FALSE;17;Neutral
+204;Male;35;Los Angeles;Silver;821;12;4,3;FALSE;12;Neutral
+210;Male;34;Los Angeles;Silver;790;11;4;FALSE;15;Neutral
+216;Male;35;Los Angeles;Silver;811;12;4,3;FALSE;13;Neutral
+222;Male;33;Los Angeles;Silver;831;13;4,2;FALSE;14;Satisfied
+228;Male;34;Los Angeles;Silver;800;11;4,1;FALSE;17;Neutral
+234;Male;35;Los Angeles;Silver;821;12;4,3;FALSE;12;Neutral
+240;Male;34;Los Angeles;Silver;790;11;4;FALSE;15;Neutral
+246;Male;35;Los Angeles;Silver;821;12;4,3;FALSE;12;Neutral
+252;Male;34;Los Angeles;Silver;790;11;4;FALSE;15;Neutral
+258;Male;35;Los Angeles;Silver;811;12;4,3;FALSE;13;Neutral
+264;Male;33;Los Angeles;Silver;831;13;4,2;FALSE;14;Satisfied
+270;Male;34;Los Angeles;Silver;800;11;4,1;FALSE;17;Neutral
+276;Male;35;Los Angeles;Silver;821;12;4,3;FALSE;12;Neutral
+282;Male;34;Los Angeles;Silver;790;11;4;FALSE;15;Neutral
+288;Male;35;Los Angeles;Silver;821;12;4,3;FALSE;13;Neutral
+294;Male;33;Los Angeles;Silver;831;13;4,2;FALSE;14;Satisfied
+300;Male;34;Los Angeles;Silver;800;11;4,1;FALSE;17;Neutral
+305;Male;27;Los Angeles;Silver;781;11;4,2;FALSE;16;Neutral
+311;Male;34;Los Angeles;Silver;810;11;4;FALSE;14;Neutral
+317;Male;35;Los Angeles;Silver;821;12;4,3;FALSE;13;Neutral
+323;Male;34;Los Angeles;Silver;790;11;4;FALSE;15;Neutral
+329;Male;35;Los Angeles;Silver;821;12;4,3;FALSE;13;Neutral
+335;Male;33;Los Angeles;Silver;831;13;4,2;FALSE;14;Satisfied
+341;Male;34;Los Angeles;Silver;800;11;4,1;FALSE;17;Neutral
+347;Male;35;Los Angeles;Silver;831;12;4,3;FALSE;14;Neutral
+353;Male;34;Los Angeles;Silver;790;11;4;FALSE;15;Neutral
+359;Male;35;Los Angeles;Silver;811;12;4,3;FALSE;14;Neutral
+365;Male;34;Los Angeles;Silver;780;11;4,1;FALSE;16;Neutral
+371;Male;35;Los Angeles;Silver;801;12;4,1;FALSE;17;Neutral
+377;Male;33;Los Angeles;Silver;770;11;4,2;FALSE;18;Neutral
+383;Male;35;Los Angeles;Silver;821;12;4,3;FALSE;15;Neutral
+389;Male;34;Los Angeles;Silver;780;11;4,1;FALSE;16;Neutral
+395;Male;35;Los Angeles;Silver;801;12;4,1;FALSE;17;Neutral
+401;Male;33;Los Angeles;Silver;800;11;4,1;FALSE;18;Neutral
+407;Male;35;Los Angeles;Silver;821;12;4,3;FALSE;16;Neutral
+413;Male;34;Los Angeles;Silver;780;11;4,1;FALSE;17;Neutral
+419;Male;35;Los Angeles;Silver;801;12;4,1;FALSE;19;Neutral
+425;Male;34;Los Angeles;Silver;780;11;4,2;FALSE;18;Neutral
+431;Male;35;Los Angeles;Silver;821;12;4,3;FALSE;20;Neutral
+437;Male;34;Los Angeles;Silver;780;11;4,1;FALSE;19;Neutral
+443;Male;35;Los Angeles;Silver;801;12;4,1;FALSE;20;Neutral
+449;Male;34;Los Angeles;Silver;780;11;4,2;FALSE;21;Neutral
+105;Male;27;Miami;Silver;720;13;4;TRUE;55;Unsatisfied
+111;Male;32;Miami;Silver;690;11;3,8;TRUE;34;Unsatisfied
+117;Male;26;Miami;Silver;701;12;3,7;TRUE;48;Unsatisfied
+123;Male;27;Miami;Silver;710;13;4,1;TRUE;54;Unsatisfied
+129;Male;32;Miami;Silver;670;10;3,8;TRUE;33;Unsatisfied
+135;Male;26;Miami;Silver;691;12;3,9;TRUE;47;Unsatisfied
+141;Male;27;Miami;Silver;700;13;4;TRUE;53;Unsatisfied
+147;Male;32;Miami;Silver;680;10;3,8;TRUE;32;Unsatisfied
+153;Male;27;Miami;Silver;710;13;4,1;TRUE;54;Unsatisfied
+159;Male;32;Miami;Silver;670;10;3,8;TRUE;33;Unsatisfied
+165;Male;26;Miami;Silver;691;12;3,9;TRUE;47;Unsatisfied
+171;Male;27;Miami;Silver;700;13;4;TRUE;53;Unsatisfied
+177;Male;32;Miami;Silver;680;10;3,8;TRUE;32;Unsatisfied
+183;Male;27;Miami;Silver;710;13;4,1;TRUE;54;Unsatisfied
+189;Male;32;Miami;Silver;670;10;3,8;TRUE;33;Unsatisfied
+195;Male;26;Miami;Silver;691;12;3,9;TRUE;47;Unsatisfied
+201;Male;27;Miami;Silver;700;13;4;TRUE;53;Unsatisfied
+207;Male;32;Miami;Silver;680;10;3,8;TRUE;32;Unsatisfied
+213;Male;27;Miami;Silver;710;13;4,1;TRUE;54;Unsatisfied
+219;Male;32;Miami;Silver;670;10;3,8;TRUE;33;Unsatisfied
+225;Male;26;Miami;Silver;691;12;3,9;TRUE;47;Unsatisfied
+231;Male;27;Miami;Silver;700;13;4;TRUE;53;Unsatisfied
+237;Male;32;Miami;Silver;680;10;3,8;TRUE;32;Unsatisfied
+243;Male;27;Miami;Silver;710;13;4,1;TRUE;54;Unsatisfied
+249;Male;32;Miami;Silver;680;10;3,8;TRUE;32;Unsatisfied
+255;Male;27;Miami;Silver;710;13;4,1;TRUE;54;Unsatisfied
+261;Male;32;Miami;Silver;670;10;3,8;TRUE;33;Unsatisfied
+267;Male;26;Miami;Silver;691;12;3,9;TRUE;47;Unsatisfied
+273;Male;27;Miami;Silver;700;13;4;TRUE;53;Unsatisfied
+279;Male;32;Miami;Silver;680;10;3,8;TRUE;32;Unsatisfied
+285;Male;27;Miami;Silver;710;13;4,1;TRUE;54;Unsatisfied
+291;Male;32;Miami;Silver;670;10;3,8;TRUE;33;Unsatisfied
+297;Male;26;Miami;Silver;691;12;3,9;TRUE;47;Unsatisfied
+302;Female;29;Miami;Silver;730;14;4;TRUE;50;Unsatisfied
+308;Male;26;Miami;Silver;671;12;3,9;TRUE;46;Unsatisfied
+314;Male;27;Miami;Silver;690;13;4,1;TRUE;52;Unsatisfied
+320;Male;32;Miami;Silver;680;10;3,8;TRUE;32;Unsatisfied
+326;Male;27;Miami;Silver;710;13;4,1;TRUE;54;Unsatisfied
+332;Male;32;Miami;Silver;670;10;3,8;TRUE;33;Unsatisfied
+338;Male;26;Miami;Silver;691;12;3,9;TRUE;47;Unsatisfied
+344;Male;27;Miami;Silver;720;13;4;TRUE;55;Unsatisfied
+350;Male;32;Miami;Silver;690;10;3,8;TRUE;34;Unsatisfied
+356;Male;27;Miami;Silver;700;13;4,1;TRUE;56;Unsatisfied
+362;Male;32;Miami;Silver;660;10;3,8;TRUE;35;Unsatisfied
+368;Male;27;Miami;Silver;710;13;4,1;TRUE;57;Unsatisfied
+374;Male;32;Miami;Silver;660;10;3,8;TRUE;36;Unsatisfied
+380;Male;27;Miami;Silver;710;13;4,1;TRUE;58;Unsatisfied
+386;Male;32;Miami;Silver;660;10;3,8;TRUE;37;Unsatisfied
+392;Male;27;Miami;Silver;710;13;4,1;TRUE;59;Unsatisfied
+398;Male;32;Miami;Silver;660;10;3,8;TRUE;38;Unsatisfied
+404;Male;27;Miami;Silver;710;13;4,1;TRUE;60;Unsatisfied
+410;Male;32;Miami;Silver;660;10;3,8;TRUE;39;Unsatisfied
+416;Male;27;Miami;Silver;710;13;4,1;TRUE;61;Unsatisfied
+422;Male;32;Miami;Silver;660;10;3,8;TRUE;40;Unsatisfied
+428;Male;27;Miami;Silver;710;13;4,1;TRUE;62;Unsatisfied
+434;Male;32;Miami;Silver;660;10;3,8;TRUE;41;Unsatisfied
+440;Male;27;Miami;Silver;710;13;4,1;TRUE;63;Unsatisfied
+446;Male;32;Miami;Silver;660;10;3,8;TRUE;42;Unsatisfied
+101;Female;29;New York;Gold;1120;14;4,6;TRUE;25;Satisfied
+107;Female;31;New York;Gold;1151;15;4,5;TRUE;28;Satisfied
+113;Female;30;New York;Gold;1201;16;4,3;TRUE;21;Satisfied
+119;Female;32;New York;Gold;1170;14;4,7;TRUE;29;Satisfied
+125;Female;31;New York;Gold;1141;15;4,6;TRUE;27;Satisfied
+131;Female;30;New York;Gold;1191;16;4,5;TRUE;20;Satisfied
+137;Female;32;New York;Gold;1160;14;4,4;TRUE;22;Satisfied
+143;Female;31;New York;Gold;1131;15;4,5;TRUE;26;Satisfied
+149;Female;30;New York;Gold;1181;16;4,7;TRUE;19;Satisfied
+155;Female;31;New York;Gold;1141;15;4,6;TRUE;27;Satisfied
+161;Female;30;New York;Gold;1191;16;4,5;TRUE;20;Satisfied
+167;Female;32;New York;Gold;1160;14;4,4;TRUE;22;Satisfied
+173;Female;31;New York;Gold;1131;15;4,5;TRUE;26;Satisfied
+179;Female;30;New York;Gold;1181;16;4,7;TRUE;19;Satisfied
+185;Female;31;New York;Gold;1141;15;4,6;TRUE;27;Satisfied
+191;Female;30;New York;Gold;1191;16;4,5;TRUE;20;Satisfied
+197;Female;32;New York;Gold;1160;14;4,4;TRUE;22;Satisfied
+203;Female;31;New York;Gold;1131;15;4,5;TRUE;26;Satisfied
+209;Female;30;New York;Gold;1181;16;4,7;TRUE;19;Satisfied
+215;Female;31;New York;Gold;1141;15;4,6;TRUE;27;Satisfied
+221;Female;30;New York;Gold;1191;16;4,5;TRUE;20;Satisfied
+227;Female;32;New York;Gold;1160;14;4,4;TRUE;22;Satisfied
+233;Female;31;New York;Gold;1131;15;4,5;TRUE;26;Satisfied
+239;Female;30;New York;Gold;1181;16;4,7;TRUE;19;Satisfied
+245;Female;31;New York;Gold;1131;15;4,5;TRUE;26;Satisfied
+251;Female;30;New York;Gold;1181;16;4,7;TRUE;19;Satisfied
+257;Female;31;New York;Gold;1141;15;4,6;TRUE;27;Satisfied
+263;Female;30;New York;Gold;1191;16;4,5;TRUE;20;Satisfied
+269;Female;32;New York;Gold;1160;14;4,4;TRUE;22;Satisfied
+275;Female;31;New York;Gold;1141;15;4,5;TRUE;27;Satisfied
+281;Female;30;New York;Gold;1181;16;4,7;TRUE;19;Satisfied
+287;Female;31;New York;Gold;1131;15;4,5;TRUE;26;Satisfied
+293;Female;30;New York;Gold;1191;16;4,5;TRUE;20;Satisfied
+299;Female;32;New York;Gold;1160;14;4,4;TRUE;22;Satisfied
+304;Male;31;New York;Gold;1211;17;4,8;TRUE;18;Satisfied
+310;Female;32;New York;Gold;1170;14;4,5;TRUE;21;Satisfied
+316;Female;31;New York;Gold;1131;15;4,5;TRUE;26;Satisfied
+322;Female;30;New York;Gold;1181;16;4,7;TRUE;19;Satisfied
+328;Female;31;New York;Gold;1141;15;4,5;TRUE;27;Satisfied
+334;Female;30;New York;Gold;1191;16;4,5;TRUE;20;Satisfied
+340;Female;32;New York;Gold;1160;14;4,4;TRUE;22;Satisfied
+346;Female;31;New York;Gold;1151;15;4,5;TRUE;28;Satisfied
+352;Female;30;New York;Gold;1171;16;4,7;TRUE;21;Satisfied
+358;Female;31;New York;Gold;1161;15;4,5;TRUE;29;Satisfied
+364;Female;30;New York;Gold;1201;16;4,7;TRUE;22;Satisfied
+370;Female;31;New York;Gold;1141;15;4,5;TRUE;30;Satisfied
+376;Female;30;New York;Gold;1191;16;4,5;TRUE;23;Satisfied
+382;Female;31;New York;Gold;1161;15;4,5;TRUE;31;Satisfied
+388;Female;30;New York;Gold;1201;16;4,7;TRUE;24;Satisfied
+394;Female;31;New York;Gold;1141;15;4,5;TRUE;32;Satisfied
+400;Female;30;New York;Gold;1191;16;4,5;TRUE;25;Satisfied
+406;Female;31;New York;Gold;1161;15;4,5;TRUE;33;Satisfied
+412;Female;30;New York;Gold;1201;16;4,7;TRUE;25;Satisfied
+418;Female;31;New York;Gold;1141;15;4,5;TRUE;34;Satisfied
+424;Female;30;New York;Gold;1191;16;4,5;TRUE;27;Satisfied
+430;Female;31;New York;Gold;1161;15;4,5;TRUE;35;Satisfied
+436;Female;30;New York;Gold;1201;16;4,7;TRUE;28;Satisfied
+442;Female;31;New York;Gold;1141;15;4,5;TRUE;36;Satisfied
+448;Female;30;New York;Gold;1191;16;4,5;TRUE;28;Satisfied
+104;Male;30;San Francisco;Gold;1480;19;4,7;FALSE;12;Satisfied
+110;Male;28;San Francisco;Gold;1520;21;4,8;FALSE;9;Satisfied
+116;Male;29;San Francisco;Gold;1360;18;4,9;FALSE;11;Satisfied
+122;Male;30;San Francisco;Gold;1471;20;4,8;FALSE;13;Satisfied
+128;Male;28;San Francisco;Gold;1500;21;4,9;FALSE;10;Satisfied
+134;Male;29;San Francisco;Gold;1370;18;4,7;FALSE;10;Satisfied
+140;Male;30;San Francisco;Gold;1461;20;4,8;FALSE;12;Satisfied
+146;Male;28;San Francisco;Gold;1490;21;4,9;FALSE;9;Satisfied
+152;Male;30;San Francisco;Gold;1471;20;4,8;FALSE;13;Satisfied
+158;Male;28;San Francisco;Gold;1500;21;4,9;FALSE;10;Satisfied
+164;Male;29;San Francisco;Gold;1370;18;4,7;FALSE;10;Satisfied
+170;Male;30;San Francisco;Gold;1461;20;4,8;FALSE;12;Satisfied
+176;Male;28;San Francisco;Gold;1490;21;4,9;FALSE;9;Satisfied
+182;Male;30;San Francisco;Gold;1471;20;4,8;FALSE;13;Satisfied
+188;Male;28;San Francisco;Gold;1500;21;4,9;FALSE;10;Satisfied
+194;Male;29;San Francisco;Gold;1370;18;4,7;FALSE;10;Satisfied
+200;Male;30;San Francisco;Gold;1461;20;4,8;FALSE;12;Satisfied
+206;Male;28;San Francisco;Gold;1490;21;4,9;FALSE;9;Satisfied
+212;Male;30;San Francisco;Gold;1471;20;4,8;FALSE;13;Satisfied
+218;Male;28;San Francisco;Gold;1500;21;4,9;FALSE;10;Satisfied
+224;Male;29;San Francisco;Gold;1370;18;4,7;FALSE;10;Satisfied
+230;Male;30;San Francisco;Gold;1461;20;4,8;FALSE;12;Satisfied
+236;Male;28;San Francisco;Gold;1490;21;4,9;FALSE;9;Satisfied
+242;Male;30;San Francisco;Gold;1471;20;4,8;FALSE;13;Satisfied
+248;Male;28;San Francisco;Gold;1490;21;4,9;FALSE;9;Satisfied
+254;Male;30;San Francisco;Gold;1471;20;4,8;FALSE;13;Satisfied
+260;Male;28;San Francisco;Gold;1500;21;4,9;FALSE;10;Satisfied
+266;Male;29;San Francisco;Gold;1370;18;4,7;FALSE;10;Satisfied
+272;Male;30;San Francisco;Gold;1461;20;4,8;FALSE;12;Satisfied
+278;Male;28;San Francisco;Gold;1490;21;4,9;FALSE;9;Satisfied
+284;Male;30;San Francisco;Gold;1471;20;4,8;FALSE;13;Satisfied
+290;Male;28;San Francisco;Gold;1500;21;4,9;FALSE;10;Satisfied
+296;Male;29;San Francisco;Gold;1370;18;4,7;FALSE;10;Satisfied
+301;Male;36;San Francisco;Gold;1421;19;4,6;FALSE;11;Satisfied
+307;Male;29;San Francisco;Gold;1390;18;4,7;FALSE;9;Satisfied
+313;Male;30;San Francisco;Gold;1451;20;4,8;FALSE;12;Satisfied
+319;Male;28;San Francisco;Gold;1490;21;4,9;FALSE;9;Satisfied
+325;Male;30;San Francisco;Gold;1471;20;4,8;FALSE;13;Satisfied
+331;Male;28;San Francisco;Gold;1500;21;4,9;FALSE;10;Satisfied
+337;Male;29;San Francisco;Gold;1370;18;4,7;FALSE;10;Satisfied
+343;Male;30;San Francisco;Gold;1461;20;4,8;FALSE;11;Satisfied
+349;Male;28;San Francisco;Gold;1480;21;4,9;FALSE;10;Satisfied
+355;Male;30;San Francisco;Gold;1441;19;4,6;FALSE;12;Satisfied
+361;Male;28;San Francisco;Gold;1490;21;4,9;FALSE;10;Satisfied
+367;Male;30;San Francisco;Gold;1461;20;4,8;FALSE;13;Satisfied
+373;Male;28;San Francisco;Gold;1480;21;4,9;FALSE;11;Satisfied
+379;Male;30;San Francisco;Gold;1451;19;4,6;FALSE;12;Satisfied
+385;Male;28;San Francisco;Gold;1490;21;4,9;FALSE;10;Satisfied
+391;Male;30;San Francisco;Gold;1461;20;4,8;FALSE;13;Satisfied
+397;Male;28;San Francisco;Gold;1480;21;4,9;FALSE;12;Satisfied
+403;Male;30;San Francisco;Gold;1451;19;4,6;FALSE;13;Satisfied
+409;Male;28;San Francisco;Gold;1490;21;4,9;FALSE;11;Satisfied
+415;Male;30;San Francisco;Gold;1461;20;4,8;FALSE;14;Satisfied
+421;Male;28;San Francisco;Gold;1480;21;4,9;FALSE;12;Satisfied
+427;Male;30;San Francisco;Gold;1451;19;4,6;FALSE;14;Satisfied
+433;Male;28;San Francisco;Gold;1490;21;4,9;FALSE;11;Satisfied
+439;Male;30;San Francisco;Gold;1461;20;4,8;FALSE;15;Satisfied
+445;Male;28;San Francisco;Gold;1480;21;4,9;FALSE;13;Satisfied
