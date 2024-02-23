@@ -1,2 +1,2 @@
-# E-commerce-csutomer-behaviour
+# E-commerce-customer-behaviour
 project smkdev bothcamp 2
